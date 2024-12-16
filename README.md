@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jva1994
+- 👀 I’m interested in learning new skills here.
+- 🌱 I’m currently learning cloud computing
+- 💞️ I’m looking to collaborate on projects that will help me grow.
